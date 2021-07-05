@@ -1,2 +1,2 @@
-# Doxus
-Doxus
+# Strona
+ Strona Internetowu
